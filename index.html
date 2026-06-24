@@ -28,38 +28,67 @@
     </style>
   </noscript>
 
-  <!-- CSS yang sudah diperbaiki -->
+  <!-- CSS dengan Animasi Hujan Berputar -->
   <style amp-custom>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     
     body {
       font-family: 'Poppins', sans-serif;
-      background-image: url(https://user15085.na.imgto.link/public/20260624/fiksiniya.avif);
-      background-size: cover;
-      background-position: center;
-      background-attachment: fixed;
+      background-color: #000000;
       color: #ffffff;
       min-height: 100vh;
       display: flex;
       justify-content: center;
-      align-items: center; /* Agar kartu persis di tengah layar */
+      align-items: center;
       padding: 20px 10px;
+      overflow: hidden; /* Mencegah scrollbar muncul akibat gambar berputar */
+    }
+
+    /* Layer Hujan Berputar (Menggunakan Gambar Background Anda) */
+    .bg-rain {
+      position: fixed;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background-image: url(https://user15085.na.imgto.link/public/20260624/fiksiniya.avif);
+      background-size: 150px 150px; /* Ukuran tile gambar agar terlihat seperti hujan */
+      background-repeat: repeat;
+      animation: spinRain 20s linear infinite; /* Kecepatan putar */
+      z-index: 0;
+      opacity: 0.4; /* Sedikit transparan agar tidak terlalu silau */
+    }
+
+    /* Efek gelap di tengah agar konten tetap terbaca */
+    .overlay {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: radial-gradient(circle at center, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.9) 100%);
+      z-index: 1;
+    }
+
+    /* Animasi Putar */
+    @keyframes spinRain {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
     }
 
     .container {
       width: 100%;
       max-width: 450px;
       margin: 0 auto;
+      position: relative;
+      z-index: 2; /* Menempatkan kartu di atas hujan dan overlay */
     }
 
     /* Card (Tabel) lebih gelap dan memiliki border emas */
     .card {
-      background: rgba(10, 10, 10, 0.85); /* Lebih gelap agar konten menonjol */
+      background: rgba(10, 10, 10, 0.85); 
       backdrop-filter: blur(15px);
       -webkit-backdrop-filter: blur(15px);
       border-radius: 24px;
       padding: 30px 20px;
-      border: 2px solid rgba(255, 215, 0, 0.3); /* Border emas tipis */
+      border: 2px solid rgba(255, 215, 0, 0.3); 
       box-shadow: 0 15px 40px rgba(0, 0, 0, 0.7), inset 0 0 20px rgba(0, 0, 0, 0.5);
     }
 
@@ -84,7 +113,6 @@
       font-size: 18px;
       font-weight: 800;
       line-height: 1.4;
-      /* Gradient Emas ke Putih agar terlihat elegan */
       background: linear-gradient(to right, #FFD700, #FFFFFF, #FFD700);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -106,7 +134,7 @@
       letter-spacing: 1px;
     }
 
-    /* Tombol dengan warna emas mencolok agar mudah dilihat */
+    /* Tombol dengan warna emas mencolok */
     .btn-primary {
       background: linear-gradient(135deg, #FFD700 0%, #FFC107 50%, #FFD700 100%);
       color: #000000;
@@ -123,14 +151,21 @@
     .hero {
       border-radius: 16px;
       overflow: hidden;
-      box-shadow: 0 0 25px rgba(255, 215, 0, 0.3), 0 10px 20px rgba(0,0,0,0.5); /* Tambahkan cahaya di sekitar gambar */
-      border: 2px solid rgba(255, 255, 255, 0.15); /* Border pemisah */
+      box-shadow: 0 0 25px rgba(255, 215, 0, 0.3), 0 10px 20px rgba(0,0,0,0.5); 
+      border: 2px solid rgba(255, 255, 255, 0.15); 
       background: #000;
     }
   </style>
 </head>
 
 <body>
+  <!-- Lapisan Latar Belakang Berputar -->
+  <div class="bg-rain"></div>
+  
+  <!-- Lapisan Overlay Gelap -->
+  <div class="overlay"></div>
+
+  <!-- Konten Utama -->
   <div class="container">
     <div class="card">
       <header>
