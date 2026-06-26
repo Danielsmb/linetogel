@@ -197,7 +197,7 @@
 | **Music/Sound** | Gunakan sound yang lagi trending di TikTok/Reels |
 | **Teks Overlay** | Font tebal, kontras tinggi, mudah dibaca di mobile |
 | **Caption** | 3–5 hashtag, mention @linetogelofficial, call-to-action |
-| **Link** | Taruh link https://linetogel-site.vercel.app/ di bio + di komen pin |
+| **Link** | Taruh link https://linetogel-pi.vercel.app/ di bio + di komen pin |
 
 ### Jadwal Posting Ideal
 

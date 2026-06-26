@@ -31,7 +31,7 @@ Untuk mulai bermain, Anda hanya perlu mendaftar di situs resmi LINETOGEL, mengis
 
 ## Kesimpulan
 
-Memilih situs toto online terpercaya adalah langkah pertama menuju pengalaman bermain yang aman dan menguntungkan. Kunjungi [LINETOGEL](https://linetogel-site.vercel.app/) sekarang dan daftarkan akun Anda untuk meraih kemenangan besar!
+Memilih situs toto online terpercaya adalah langkah pertama menuju pengalaman bermain yang aman dan menguntungkan. Kunjungi [LINETOGEL](https://linetogel-pi.vercel.app/) sekarang dan daftarkan akun Anda untuk meraih kemenangan besar!
 
 ---
 

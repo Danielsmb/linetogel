@@ -34,7 +34,7 @@ Di tengah maraknya situs-situs toto online yang beroperasi tanpa standar jelas, 
 
 ## Cara Bergabung
 
-Untuk mulai bermain di LINETOGEL, pemain cukup mengunjungi situs resmi di **[https://linetogel-site.vercel.app/](https://linetogel-site.vercel.app/)**, melakukan pendaftaran yang hanya membutuhkan waktu kurang dari 3 menit, melakukan deposit pertama, dan langsung dapat menikmati seluruh pasaran yang tersedia.
+Untuk mulai bermain di LINETOGEL, pemain cukup mengunjungi situs resmi di **[https://linetogel-pi.vercel.app/](https://linetogel-pi.vercel.app/)**, melakukan pendaftaran yang hanya membutuhkan waktu kurang dari 3 menit, melakukan deposit pertama, dan langsung dapat menikmati seluruh pasaran yang tersedia.
 
 ## Tentang LINETOGEL
 
@@ -42,7 +42,7 @@ LINETOGEL adalah platform permainan toto online yang beroperasi dengan standar i
 
 ---
 
-*Untuk informasi lebih lanjut, kunjungi situs resmi LINETOGEL di [https://linetogel-site.vercel.app/](https://linetogel-site.vercel.app/)*
+*Untuk informasi lebih lanjut, kunjungi situs resmi LINETOGEL di [https://linetogel-pi.vercel.app/](https://linetogel-pi.vercel.app/)*
 
 ---
 

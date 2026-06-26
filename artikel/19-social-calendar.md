@@ -318,7 +318,7 @@
 
 [Isi konten 50-100 kata]
 
-🔗 Daftar: https://linetogel-site.vercel.app/
+🔗 Daftar: https://linetogel-pi.vercel.app/
 #[Hashtag1] #[Hashtag2] #[Hashtag3]
 ```
 
@@ -329,7 +329,7 @@
 💡 Tips Toto hari ini: [isi tips 1-2 kalimat]
 
 Pelajari lebih lanjut 👇
-linetogel-site.vercel.app
+linetogel-pi.vercel.app
 
 #LINETOGEL #TipsToto
 ```
@@ -341,7 +341,7 @@ linetogel-site.vercel.app
 [Deskripsi singkat, highlight benefit]
 
 Daftar sekarang 👇
-linetogel-site.vercel.app
+linetogel-pi.vercel.app
 
 #Promo #LINETOGEL
 ```

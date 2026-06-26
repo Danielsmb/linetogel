@@ -4,7 +4,7 @@
 ```
 LINETOGEL | Situs Toto Pasaran Lengkap & Bayaran Tertinggi 🏆
 Daftar sekarang 👇
-linetogel-site.vercel.app
+linetogel-pi.vercel.app
 ```
 
 ## Facebook Page Description
@@ -12,7 +12,7 @@ linetogel-site.vercel.app
 LINETOGEL adalah situs toto online terpercaya dengan pasaran terlengkap dan bayaran kemenangan tertinggi di Indonesia. 
 Daftar sekarang dan raih kemenangan besar Anda!
 
-🌐 https://linetogel-site.vercel.app/
+🌐 https://linetogel-pi.vercel.app/
 ```
 
 ## Instagram Bio
@@ -21,7 +21,7 @@ Daftar sekarang dan raih kemenangan besar Anda!
 🎯 Situs Toto Pasaran Lengkap
 ⚡ Bayaran Tertinggi
 👇 Daftar Sekarang
-linetogel-site.vercel.app
+linetogel-pi.vercel.app
 ```
 
 ## TikTok Bio
@@ -35,13 +35,13 @@ Link Daftar 👇
 ```
 LINETOGEL - Situs Toto Online Terpercaya dengan Pasaran Terlengkap & Bayaran Tertinggi di Indonesia. 
 Daftar sekarang dan menangkan hadiah besar! 
-https://linetogel-site.vercel.app/
+https://linetogel-pi.vercel.app/
 #toto #totoonline #linetogel #situs toto #togelonline
 ```
 
 ## Forum Signature (Kaskus, dll)
 ```
-[URL="https://linetogel-site.vercel.app/"]LINETOGEL[/URL] - Situs Toto Pasaran Lengkap & Bayaran Tertinggi | Daftar Sekarang!
+[URL="https://linetogel-pi.vercel.app/"]LINETOGEL[/URL] - Situs Toto Pasaran Lengkap & Bayaran Tertinggi | Daftar Sekarang!
 ```
 
 ## Telegram Channel Description
@@ -51,5 +51,5 @@ https://linetogel-site.vercel.app/
 🎯 Pasaran Terlengkap
 ⚡ Bayaran Tertinggi
 
-Daftar: https://linetogel-site.vercel.app/
+Daftar: https://linetogel-pi.vercel.app/
 ```
